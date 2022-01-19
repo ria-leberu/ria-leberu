@@ -6,7 +6,7 @@ I'm a Software Engineer with a strong interest in Robotics, Embedded Systems and
 
 Projects I'm most proud of:
 
-4-DOF Mobile Robotic Arm | Heteromorphism (Transforming) Robot | Planetisimal, Inc | Blockchain based Contact-tracing
+[4-DOF Mobile Robotic Arm](https://github.com/ria-leberu/CET4811-CapstoneProject-4DOFMobileRobotArm) | [Transforming Robot](https://github.com/ria-leberu/city-tech-robotics-humanoid-project) | [Planetisimal, Inc.](https://github.com/ria-leberu/planetesimal) | [Blockchain based Contact-tracing](https://github.com/ria-leberu/Contact-Tracing-Blockchain)
 -------------------------|-------------------------------------|-------------------|--------------------------------
 Arduino, C++ | Robotis Task and Motion Software | HTML, CSS, Javascript | C++
 An open source, Arduino-based robotic arm using 3D printed parts. | A transforming humanoid robot, that turns into a small car. | An imaginary company that estimates total value of asteroids using NASA API | Contact tracing using a blockchain data structure
