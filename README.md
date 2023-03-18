@@ -2,7 +2,7 @@
 
 My nane is Gene/Jean (same pronunciation!).
 
-I'm a Software Engineer with a strong interest in Robotics, Embedded Systems and Full Stack Development. I love making things, both in real life and digitally.
+I'm a Software Engineer with a strong interest in Robotics, Embedded Systems. I love making things, both in real life and digitally.
 
 Projects I'm most proud of:
 
