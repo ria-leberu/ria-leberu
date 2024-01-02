@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My nane is Gene/Jean (same pronunciation!).
+My name is Jean (pronounced like denim pants!).
 
 I'm a Software Engineer with a strong interest in Robotics, Embedded Systems. I love making things, both in real life and digitally.
 
