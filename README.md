@@ -6,7 +6,7 @@ I'm a Software Engineer with a strong interest in Robotics, Embedded Systems. I 
 
 Projects I'm most proud of:
 
-[4-DOF Mobile Robotic Arm](https://github.com/ria-leberu/CET4811-CapstoneProject-4DOFMobileRobotArm) | [Transforming Robot](https://github.com/ria-leberu/city-tech-robotics-humanoid-project) | [Planetisimal, Inc.](https://github.com/ria-leberu/planetesimal) | [Blockchain based Contact-tracing](https://github.com/ria-leberu/Contact-Tracing-Blockchain)
+[Trilobyte Differential Drive Robot](https://github.com/ria-leberu/trilobyte) | [4-DOF Mobile Robotic Arm](https://github.com/ria-leberu/CET4811-CapstoneProject-4DOFMobileRobotArm) | [Transforming Robot](https://github.com/ria-leberu/city-tech-robotics-humanoid-project) | [Planetisimal, Inc.](https://github.com/ria-leberu/planetesimal)
 -------------------------|-------------------------------------|-------------------|--------------------------------
 Arduino, C++ | Robotis Task and Motion Software | HTML, CSS, Javascript | C++
 ![Mobile Robot Arm 3/4 View](/pictures/mobile-robot-arm-preview.png)|<img src="/pictures/humanoid-robot-preview.png" width="250" height="250">|<img src="/pictures/planetesimal-preview.png" width="250" height="250">|<img src="/pictures/contact-tracing-blockchain-preview.png" height="250" width="250">
